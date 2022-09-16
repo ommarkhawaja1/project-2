@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FredElick/project-2.git"
+    "url": "git+https://github.com/ommarkhawaja1/project-2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FredElick/project-2/issues"
+    "url": "https://github.com/ommarkhawaja1/project-2/issues"
   },
-  "homepage": "https://github.com/FredElick/project-2#readme",
+  "homepage": "https://github.com/ommarkhawaja1/project-2#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cloudinary": "^1.30.1",
