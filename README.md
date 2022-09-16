@@ -53,7 +53,7 @@ Welcome to Imagine AI! This is a full-stack application that demonstrates the po
 
 GitHub repo: https://github.com/FredElick/project-2
 
-Deployed: https://ai-blog-project-2.herokuapp.com/
+Deployed: https://imagine-ai-blog.herokuapp.com/
 
 ## Contributors
 - Booker King https://github.com/btking1
